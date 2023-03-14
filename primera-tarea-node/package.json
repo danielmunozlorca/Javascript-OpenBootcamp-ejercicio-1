@@ -1,0 +1,16 @@
+{
+  "name": "tarea",
+  "version": "1.0.0",
+  "description": "Esta es mi primera tarea en Javascript con Node en OpenBootcamp",
+  "main": "index.js",
+  "scripts": {
+    "start": "Hola, este es mi primer ejercicio con Node en el mejor OpenBootcamp de programación del mundo",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tarea",
+    "primeratarea"
+  ],
+  "author": "Danish Mlorc",
+  "license": "ISC"
+}
